@@ -1,5 +1,8 @@
 _repo: The-Boy-Travellers-on-the-Congo-Adventures-of-Two-Youths-in-a-Journey-with-Henry-M-Stanley-Th__60328
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Stanley, Henry M. (Henry Morton)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5229
     wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Knox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60328#The-Boy-Travellers-on-the-Congo-Adventures-of-Two-Youths-in-a-Journey-with-Henry-M-Stanley-Th_
 gutenberg_issued: '2019-09-19'
 gutenberg_type: Text
 identifiers:
