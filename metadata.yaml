@@ -1,0 +1,50 @@
+_repo: The-Boy-Travellers-on-the-Congo-Adventures-of-Two-Youths-in-a-Journey-with-Henry-M-Stanley-Th__60328
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Stanley, Henry Morton, Sir
+    - Rowlands, John
+    - Stanley, H. M. (Henry Morton)
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
+  - agent_name: Knox, Thomas Wallace
+    aliases:
+    - Knox, Thos. W.
+    - Knox, Thomas W.
+    birthdate: 1835
+    deathdate: 1896
+    gutenberg_agent_id: '5229'
+    url: http://www.gutenberg.org/2009/agents/5229
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Knox
+description: ''
+gutenberg_issued: '2019-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Congo River -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Stanley, Henry M. (Henry Morton), 1841-1904 -- Juvenile fiction'
+- !lcsh 'Africa, Central -- Description and travel -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- GITenberg
+title: "The Boy Travellers on the Congo\r\nAdventures of Two Youths in a Journey with\
+  \ Henry M. Stanley \"Through the Dark Continent\""
+url: http://www.gutenberg.org/ebooks/60328
